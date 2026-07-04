@@ -1,4 +1,4 @@
-# Example Code from Matt Pro
+# Example Code from Matt
 
 Hello, this is a repo I've created to publish some example code to share with others.
 As I haven't had much time, there is a limited number of examples, currently.
